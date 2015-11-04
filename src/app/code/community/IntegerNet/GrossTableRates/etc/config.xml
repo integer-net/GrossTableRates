@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <IntegerNet_GrossTableRates>
+            <version>0.1.0</version>
+        </IntegerNet_GrossTableRates>
+    </modules>
+    <global>
+        <models>
+            <shipping>
+                <rewrite>
+                    <carrier_tablerate>IntegerNet_GrossTableRates_Model_Shipping_Carrier_Tablerate</carrier_tablerate>
+                </rewrite>
+            </shipping>
+        </models>
+    </global>
+</config>

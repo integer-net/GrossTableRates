@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <IntegerNet_GrossTableRates>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Shipping/>
+
+            </depends>
+        </IntegerNet_GrossTableRates>
+    </modules>
+</config>
