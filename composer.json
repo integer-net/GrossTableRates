@@ -1,0 +1,6 @@
+{
+   "name": "integer_net/gross_table_rates",
+   "type": "magento-module",
+   "description": "integer_net module which modifies the table rates calculation so gross prices are taken into account instead of net prices.",
+   "homepage": "https://github.com/integer-net/GrossTableRates"
+}
